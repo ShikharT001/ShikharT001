@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShikharT001
-- 👀 I’m interested in Machine Learning, Web-Development[MERN, Python]
-- 🌱 I’m currently learning Manual Testing, Automation Testing
+- 🌱 Backend & Systems Engineer | Open-source contributor | Zig, Node, Python Building scalable web systems and dev tools
 - 📫 How to reach me @mail: shikhartiwari986@gmail.com, macner001@gmail.com
 - ⚡ Fun fact: For every 12 million email spams, only one gets a reply.
 
