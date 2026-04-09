@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=⚙️+Systems+Engineer+%7C+Backend+Architect;🚀+Building+Scalable+Digital+Systems;🧠+From+Idea+→+Production+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Systems+Engineer+%7C+Backend+Architect;Building+Scalable+Digital+Systems;From+Idea+to+Production+Infrastructure" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Focus-Backend%20Systems-0A192F?style=for-the-badge&logo=server&logoColor=00F5D4"/>
-<img src="https://img.shields.io/badge/Architecture-Scalable%20Design-0A192F?style=for-the-badge&logo=databricks&logoColor=00F5D4"/>
+<img src="https://img.shields.io/badge/Backend-Systems-0A192F?style=for-the-badge&logo=server&logoColor=00F5D4"/>
+<img src="https://img.shields.io/badge/Architecture-Scalable-0A192F?style=for-the-badge&logo=databricks&logoColor=00F5D4"/>
 <img src="https://img.shields.io/badge/SaaS-Builder-0A192F?style=for-the-badge&logo=vercel&logoColor=00F5D4"/>
 
 </div>
+
 
 ---
 
