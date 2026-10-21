@@ -171,7 +171,7 @@ Includes:
 [shikhartiwari986@gmail.com](mailto:shikhartiwari986@gmail.com) • [macner001@gmail.com](mailto:macner001@gmail.com)
 
 🌐 **Portfolio**
-https://technocyte.vercel.app
+https://thetechnocyte.com/
 
 💻 **GitHub**
 https://github.com/ShikharT001
